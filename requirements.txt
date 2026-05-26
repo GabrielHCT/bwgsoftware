@@ -1,0 +1,10 @@
+streamlit
+pandas
+gspread
+google-auth
+requests
+pillow
+plotly
+openpyxl
+fastapi
+uvicorn
